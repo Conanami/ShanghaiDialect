@@ -1,0 +1,14 @@
+*.wav
+*.mp3
+*.mp4
+*.rar
+*.m4a
+.gz
+dict
+speech-processing-master
+mp3
+wav
+mp3bak
+dialog_mp3
+backup
+
